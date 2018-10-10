@@ -1,5 +1,6 @@
 # GHack MVVM Android Framework
 Simple Native Android starter kit with MVVM Architecture. (Kotlin)
+
 ---
 
 ## What's inside?
