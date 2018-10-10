@@ -18,6 +18,6 @@ This starter kit support Data Binding and Dagger for dependency injection. You j
 
 A View Model should not bounded to the View so one View can have multiple View Model. The Active Model also sould not bounded to the View Model so one View Model can have multiple Active Model.
 
-> Sorry for my bad english, this Framework is still on Development. If you want to join me build this Framework, feel free to contact me!.
+> This Framework is still on Development. If you want to join me build this Framework, feel free to contact me!. Sorry for my bad english :)
 
 
