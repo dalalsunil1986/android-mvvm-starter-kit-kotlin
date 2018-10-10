@@ -1,10 +1,11 @@
 # GHack MVVM Android Framework
 Simple Native Android starter kit with MVVM Architecture. (Kotlin)
+---
 
-# What's inside?
+## What's inside?
 This starter kit support Data Binding and Dagger for dependency injection. You just need to modify some code and extend some base class to implement this starter kit to fit with your android project. All of the framework stuff is inside "app" package.
 
-# Architecture
+## Architecture
 ![Framework Architecture](./GhackMvvm-Architecture.png)
 
 | Role Name | Job Description |
@@ -16,4 +17,6 @@ This starter kit support Data Binding and Dagger for dependency injection. You j
 
 A View Model should not bounded to the View so one View can have multiple View Model. The Active Model also sould not bounded to the View Model so one View Model can have multiple Active Model.
 
-Sorry for my bad english, this Framework is still on Development. If you want to join me build this Framework, feel free to contact me!.
+> Sorry for my bad english, this Framework is still on Development. If you want to join me build this Framework, feel free to contact me!.
+
+
